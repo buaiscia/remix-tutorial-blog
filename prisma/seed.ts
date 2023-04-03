@@ -52,7 +52,7 @@ async function seed() {
     },
     {
       slug: "my-second-post",
-      title: "A Mixtape I Made Just For You",
+      title: "My Second Post",
       markdown: `
   # 90s Mixtape
   
